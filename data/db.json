@@ -1,0 +1,47 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "title": "Sticky Toffee Pudding",
+      "cookingTime": "60 minutes",
+      "ingredients": [
+        "1 1/4 cups flour",
+        "1 1/2 cups chopped dates",
+        "1/2 cup whole milk",
+        "1 large egg",
+        "3 Tbsp unsalted butter, melted",
+        "1 cup dark brown sugar",
+        "1/2 cup whole milk",
+        "1 teaspoon vanilla extract"
+      ],
+      "method": "1.Preheat the oven to 190°C and butter a 1 1/2 litre / 6 cups capacity pudding dish.2.Combine the 1/2 cup of dark brown sugar with the flour in a large bowl. Add the baking powder to the mixture.3.Pour milk into a measuring jug, beat in the egg, vanilla and melted butter and then pour this mixture over the sugar and flour and stir it with a wooden spoon to combine. Fold in the dates and pour into the prepared pudding dish.",
+      "id": "2"
+    },
+    {
+      "title": "Crispy Calamari Rings",
+      "cookingTime": "35 minutes",
+      "ingredients": [
+        "110 Squid ringsr",
+        "60 Tempura batter",
+        "1 Lemon (half)",
+        "1 Parsley sprig",
+        "20 Thai chilli sauce",
+        "20 Refined flour",
+        "5 Garlic confit"
+      ],
+      "method": "1.Dust the squid rings with refined flour.2.Dip in the tempura batter and deep fry it till golden in colour.3.Served with lemon half, garlic confit, Thai chilli sauce and parsley sprig. ",
+      "id": "3"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+a{
+text-decoration: none;
+color: rgba(0, 0, 0);
+/* fill="#ffd700" */
+}
+
+.nav-wraper{
+width: 100%;
+}
+
+svg{
+position: relative;
+top: 0px;
+left: 0px;
+}
+
+nav{
+display: flex;
+width: 100%;
+padding: 0px 10px;
+align-items: center;
+justify-content: space-between;
+position: absolute;
+top: 0px;
+left: 0px;
+background: transparent;
+}
+
+.logo{
+width: 18%;
+text-align: center;
+}
+
+.logo-h1{
+font-size: 1.2rem;
+padding-left: 4px;
+display: inline-block;
+}
+
+.logo-h2{
+font-size: 1.8rem;
+color: #0099FF;
+display: inline-block;
+}
+
+.menu{
+width: 40%;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+
+.search{
+width: 45%;
+}
+
+.search input{
+background: url(../../public/img/search_FILL0_wght400_GRAD0_opsz48.png) no-repeat scroll 7px 7px;
+background-size: 11%;
+border: 2px solid rgba(0, 0, 0, 0.6);
+outline: none;
+font-size: 1.1rem;
+padding: 9px 35px;
+border-radius: 40px;
+}
+
+.button{
+background: rgb(0, 0, 0);
+font-size: 1.1rem;
+padding: 8px 14px;
+border-radius: 5px;
+color: aliceblue;
+}
+
+.button:hover{
+background: #00b15f;
+cursor: pointer;
+}
+
+.colors{
+transform: rotate(-70deg);
+position: absolute;
+top: 60px;
+left: 40px;
+}
+
+.colors div{
+width: 20px;
+height: 20px;
+border-radius: 50%;
+margin: 3px;
+}
+
+.colors div:nth-child(1){
+background: #00c073;
+}
+
+.colors div:nth-child(2){
+background: #ffd700;
+}
+
+.colors div:nth-child(3){
+background: #ff00cc;
+}
+
+.mode-switch{
+width: 7%;
+}
+
+.mode-switch img{
+width: 45%;
+margin: 10px auto 0px auto;
+}

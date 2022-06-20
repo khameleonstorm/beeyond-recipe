@@ -1,0 +1,74 @@
+.recipes{
+width: 70%;
+margin: 0 auto;
+}
+
+.recipe-card{
+width: 100%;
+margin-top: -30px;
+}
+
+.card-wrapper2{
+min-height: 280px;
+border: 1px solid #0000000e;
+border-radius: 20px;
+background: #ffd9000a;
+backdrop-filter: blur(20px);
+box-shadow: 2px 2px 4px #0000000b;
+}
+
+    
+.card-wrapper2.dark{
+background: #ffd900;
+}
+    
+
+
+.card2{
+background: transparent;
+padding: 30px;
+}
+
+.card2 h2{
+font-size: 2.6rem;
+padding-bottom: 20px;
+padding-top: 10px;
+}
+
+.card2 div{
+font-size: 1.3rem;
+padding-top: 15px;
+}
+
+.card2 .button{
+margin-top: 10px;
+border: none;
+}
+
+.loading3{
+width: 100%;
+position: relative;
+top: 0;
+left: 0;
+}
+
+.loading3 img{
+width: 15%;
+position: absolute;
+top: 75px;
+left: 40%;
+}
+
+.error2{
+width: 100%;
+position: relative;
+top: 0;
+left: 0;
+}
+
+.error2 p{
+font-size: 1.2rem;
+position: absolute;
+top: 90px;
+left: 40%;
+}

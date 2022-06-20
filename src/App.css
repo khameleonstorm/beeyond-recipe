@@ -1,0 +1,29 @@
+.app{
+width: 100%;
+min-height: 100vh;
+}
+
+.app.dark{
+background: rgba(0, 0, 0, 0.95);
+}
+
+.app .svg{
+width: 100%;
+position: relative;
+bottom: 0px;
+left: 0px;
+}
+
+.app .svg svg{
+position: absolute;
+bottom: 0px;
+left: 0px;
+z-index: -100;
+}
+
+.app.dark .svg svg{
+position: absolute;
+bottom: 0px;
+left: 0px;
+background: rgba(0, 0, 0, 0.95);
+}
